@@ -31,3 +31,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm install tailwindcss @tailwindcss/vite
+```
